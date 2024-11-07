@@ -1,0 +1,17 @@
+{
+  "name": "js-langchain-chatbot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Chatbot example with LangChain and AI Endpoints",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js"
+  },
+  "author": "Stéphane Philippart",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "langchain": "0.2.16",
+    "@langchain/mistralai": "0.0.28",
+    "dotenv" :"16.4.5"
+  }
+}

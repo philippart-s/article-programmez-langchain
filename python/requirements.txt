@@ -1,0 +1,6 @@
+# GEstion des dot files
+python-dotenv==1.0.1
+# Librairie principale LangChain
+langchain-core==0.2.32
+# Wrapper permettant l'utilisation de modèles Mistral avec LangChain
+langchain-mistralai==0.1.12 
